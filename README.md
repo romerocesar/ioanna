@@ -1,4 +1,6 @@
-## Welcome to GitHub Pages
+## Welcome to Ioanna's page
+
+Everything else doesn't matter
 
 You can use the [editor on GitHub](https://github.com/romerocesar/ioanna/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
