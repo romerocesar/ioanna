@@ -12,3 +12,4 @@ Syntax highlighted code block
 
 **Bold** and _Italic_ and `Code` text
 
+go to the [menu of the restaurant](http://cesar.romero.ws/ioanna/menu)
